@@ -2,4 +2,5 @@
 #include<studio.h>
 int main{
 printf("Hello Everyone");
+printf("How are you?");
 }
